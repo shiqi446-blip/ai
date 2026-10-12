@@ -1,5 +1,12 @@
 # @ai-sdk/gateway
 
+## 4.0.112
+
+### Patch Changes
+
+- 685667c: chore(provider/gateway): update gateway model settings files
+- ec2af7b: chore(provider/gateway): update gateway model settings files
+
 ## 4.0.111
 
 ### Patch Changes

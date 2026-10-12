@@ -1,5 +1,11 @@
 # @ai-sdk/harness-opencode
 
+## 1.0.152
+
+### Patch Changes
+
+- @ai-sdk/harness@1.0.150
+
 ## 1.0.151
 
 ### Patch Changes
